@@ -13,7 +13,7 @@ namespace ImgLib.Draw
     internal class DrawHelper
     {
         /// <summary>
-        /// Clamps a floating point to 0-255 and casts it to a byte.
+        /// Clamps an int to 0-255 and casts it to a byte.
         /// </summary>
         /// <param name="val">Specified floating point value.</param>
         /// <returns>Byte version of specified floating point.</returns>
